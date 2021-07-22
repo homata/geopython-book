@@ -1,0 +1,14 @@
+{
+    "language": "ja",
+
+    "title": "Pythonではじめる地理空間情報",
+    "description": "Pythonではじめる地理空間情報",
+
+    "styles": {
+        "website": "styles/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    }
+}
