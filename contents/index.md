@@ -76,8 +76,27 @@ Python
     * [Heroku スターターガイド (Python)](https://devcenter.heroku.com/ja/categories/python-support)
 * [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
 * [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
-* [JMOOC](https://www.jmooc.jp/)
 
+#### オンライン講座（MOOC＝Massive Open Online Course）
+
+* [JMOOC](https://www.jmooc.jp/)
+* [Udemy](https://www.udemy.com/)
+
+* [Coursera](https://www.coursera.org/)
+* [edX](https://www.edx.org/school/)
+* [Udacity](https://www.udacity.com/)
+
+* [東京大学Webサイト](https://www.u-tokyo.ac.jp/ja/society/visit-lectures/mooc.html)
+   * [Coursera東京大学Webサイト](https://www.coursera.org/utokyo)
+   * [edX UTokyoX Webサイト](https://www.edx.org/school/utokyox)
+  
+* [ハーバード大学 CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   * [cs50.jp](https://cs50.jp/)
+   * [YouTube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
+##### 有料講座
+* [テックアカデミー](https://techacademy.jp/)
+* [ドットインストール](https://dotinstall.com/)
 
 ----
 
