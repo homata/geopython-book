@@ -77,11 +77,14 @@ Python
     * [Heroku スターターガイド (Python)](https://devcenter.heroku.com/ja/categories/python-support)
 * [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
 * [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+#### google
 * [Google Code Labs](https://codelabs.developers.google.com/)
-
-Google Developers
-https://www.youtube.com/user/GoogleDevelopers
-
+* [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
+* [Google Developers Japan](https://www.youtube.com/channel/UC6tAXy7UFO_QG0LeD_OKQBQ)
+* [Google Career Certificates](https://www.youtube.com/channel/UC_fyAp919RnkKmBrMXGwnUQ)
+* [Grow with Google](https://www.youtube.com/channel/UCpd0xtuhhWwUug1bk84usiA)
+* [Google](https://www.youtube.com/user/Google)
 
 #### オンライン講座（MOOC＝Massive Open Online Course）
 
