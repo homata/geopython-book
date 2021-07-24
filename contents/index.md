@@ -78,6 +78,14 @@ Python
 * [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
 * [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
 
+* [Tellus（テルース）](https://www.tellusxdp.com/)
+    * [初心者向けTellus学習コース](https://tellusxdp.github.io/start-python-with-tellus/index.html)
+* [宙畑 SNS](https://twitter.com/sorabatake)
+* [TechAcademy](https://techacademy.jp/)
+* [SIGNATE](https://signate.jp/)
+* [RESTECリモセン研修ラボ](https://rs-training.jp/e-learning/)
+
+
 #### google
 * [Google Code Labs](https://codelabs.developers.google.com/)
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
@@ -85,6 +93,9 @@ Python
 * [Google Career Certificates](https://www.youtube.com/channel/UC_fyAp919RnkKmBrMXGwnUQ)
 * [Grow with Google](https://www.youtube.com/channel/UCpd0xtuhhWwUug1bk84usiA)
 * [Google](https://www.youtube.com/user/Google)
+* [Google Maps](https://www.youtube.com/user/googlemaps)
+* [Google Local Guides](https://www.youtube.com/channel/UCEeHmfGLcSga8gRlHCMt6zg)
+* [Google Earth](https://www.youtube.com/user/googleearthweb)
 
 #### オンライン講座（MOOC＝Massive Open Online Course）
 
