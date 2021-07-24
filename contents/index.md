@@ -97,6 +97,8 @@ Python
 ##### 有料講座
 * [テックアカデミー](https://techacademy.jp/)
 * [ドットインストール](https://dotinstall.com/)
+* [PyQ](https://pyq.jp/)
+
 
 ----
 
