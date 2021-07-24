@@ -79,6 +79,10 @@ Python
 * [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
 * [Google Code Labs](https://codelabs.developers.google.com/)
 
+Google Developers
+https://www.youtube.com/user/GoogleDevelopers
+
+
 #### オンライン講座（MOOC＝Massive Open Online Course）
 
 * [JMOOC](https://www.jmooc.jp/)
