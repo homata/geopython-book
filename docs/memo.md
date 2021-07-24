@@ -89,3 +89,6 @@ Python 学習
 * [GIS実習オープン教材](https://gis-oer.github.io/gitbook/book/)
     - https://github.com/gis-oer/gis-oer
 
+
+*【PythonでGIS】GeoPandasまとめ
+    https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6

@@ -18,16 +18,16 @@ Python
 * [Colaboratory とは](https://colab.research.google.com/notebooks/intro.ipynb)
 
 #### Python学習サイト
-* [無料で読める、東大／京大の「Python教科書」電子書籍](https://www.atmarkit.co.jp/ait/articles/2105/26/news025.html)
-* [東京大学のデータサイエンティスト育成講座](https://www.amazon.co.jp/dp/B07PD237GQ/)
 * [Python-izm](https://www.python-izm.com/)
 * [PythonエンジニアによるPython3学習サイト](https://www.python.ambitious-engineer.com/)
 * [CheckiO](https://checkio.org/)
 * [Python入門 - IT media](https://www.atmarkit.co.jp/ait/subtop/features/di/pybasic_index.html)
+* [Python入門 2020](https://www.fisdom.org/F00000118/)
 
-##### Qiita
-* [PythonでのShapefile（.shp）操作まとめ](https://qiita.com/c60evaporator/items/78b4148bac6afa4844f9)
-* [【PythonでGIS】GeoPandasまとめ](https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6)
+
+* [無料で読める、東大／京大の「Python教科書」電子書籍](https://www.atmarkit.co.jp/ait/articles/2105/26/news025.html)
+* [東京大学のデータサイエンティスト育成講座](https://www.amazon.co.jp/dp/B07PD237GQ/)
+
 
 #### Jupyter Notebook
 * [Jupyter Notebook](https://jupyter.org/)
@@ -52,6 +52,18 @@ Python
 * [PyDeck](https://pydeck.gl/)
 * [GeoPandas](https://geopandas.org/index.html)
 * [GeoAlchemy 2](https://geoalchemy-2.readthedocs.io/en/latest/)
+
+##### Qiita ＆ etc
+* [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
+
+* [PythonでのShapefile（.shp）操作まとめ](https://qiita.com/c60evaporator/items/78b4148bac6afa4844f9)
+* [【PythonでGIS】GeoPandasまとめ](https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6)
+
+* [地理空間情報を扱うなら知っておきたいPythonライブラリ、GeoPandas入門~基礎編~](https://sorabatake.jp/20510/)
+* [地理空間情報を扱う上で知っておきたいPythonライブラリ、GeoPandas入門~応用編・衛星データと組み合わせ~](https://sorabatake.jp/20670/)
+* [Python で GIS データハンドリング](https://qiita.com/mamurata0924/items/23ab860f4d7429207fac)
+* [GIS（地理空間情報システム）の基本～できること、活用事例、GISデータ、ソフト～](https://sorabatake.jp/16915/)
+* [地理空間データを扱う前に知っておきたい地理空間データの心得](https://sorabatake.jp/15589/)
 
 #### 機械学習
 * [Google ColabでYOLOv5を使って物体検出してみた](https://qiita.com/shoku-pan/items/31bf3c975b73db153121)
