@@ -17,6 +17,7 @@ Python
 * [Colaboratory へようこそ](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
 * [Colaboratory とは](https://colab.research.google.com/notebooks/intro.ipynb)
 * [Google Colaboratory の開始方法 (Coding TensorFlow)](https://www.youtube.com/watch?v=inN8seMm7UI)
+* [Getting Started with Google CoLab | How to use Google Colab](https://www.youtube.com/watch?v=i-HnvsehuSw)
 
 
 #### Python学習サイト
@@ -76,6 +77,7 @@ Python
     * [Heroku スターターガイド (Python)](https://devcenter.heroku.com/ja/categories/python-support)
 * [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
 * [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
+* [Google Code Labs](https://codelabs.developers.google.com/)
 
 #### オンライン講座（MOOC＝Massive Open Online Course）
 
@@ -98,7 +100,7 @@ Python
 * [テックアカデミー](https://techacademy.jp/)
 * [ドットインストール](https://dotinstall.com/)
 * [PyQ](https://pyq.jp/)
-
+* [Progate[プロゲート]](https://prog-8.com/)
 
 ----
 
