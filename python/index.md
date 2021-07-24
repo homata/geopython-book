@@ -26,6 +26,11 @@ Pythonにはバージョン2とバージョン3の2つの系統が存在して�
 * [PyQ（パイキュー） - 本気でプログラミングを学びたい人のPythonオンライン学習サービス (有料)](https://pyq.jp/)
 * [Progate - Python](https://prog-8.com/courses/python)
   * [学習レッスン一覧表](https://prog-8.com/lessons/info)
+      * HTML&CSS
+      * JavaScript & JQuery
+      * サーバーサイド言語(Python)
+      * SQL
+      * Git
 
 #### 有料スクール
 * [TECHCAMP](https://tech-camp.in/)
