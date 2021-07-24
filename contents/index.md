@@ -79,8 +79,9 @@ Python
 * [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
 
 * [Tellus（テルース）](https://www.tellusxdp.com/)
-    * [初心者向けTellus学習コース](https://tellusxdp.github.io/start-python-with-tellus/index.html)
+   * [初心者向けTellus学習コース](https://tellusxdp.github.io/start-python-with-tellus/index.html)
 * [宙畑 SNS](https://twitter.com/sorabatake)
+   * [解析ノートブックの記事一覧](https://sorabatake.jp/satellite/notebooks/)
 * [TechAcademy](https://techacademy.jp/)
 * [SIGNATE](https://signate.jp/)
 * [RESTECリモセン研修ラボ](https://rs-training.jp/e-learning/)
