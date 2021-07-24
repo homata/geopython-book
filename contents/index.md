@@ -24,7 +24,7 @@ Python
 * [PythonエンジニアによるPython3学習サイト](https://www.python.ambitious-engineer.com/)
 * [CheckiO](https://checkio.org/)
 * [Python入門 - IT media](https://www.atmarkit.co.jp/ait/subtop/features/di/pybasic_index.html)
-* [Python入門 2020](https://www.fisdom.org/F00000118/)
+* [Fisdom - Python入門 2020](https://www.fisdom.org/F00000118/)
 
 
 * [無料で読める、東大／京大の「Python教科書」電子書籍](https://www.atmarkit.co.jp/ait/articles/2105/26/news025.html)
