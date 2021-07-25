@@ -24,7 +24,7 @@ http://localhost:4000
 
 build for github pages
 ```
-gitbook build . docs
+$ gitbook build . docs
 ```
 
 #### Install Error
