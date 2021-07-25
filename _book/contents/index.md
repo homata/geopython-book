@@ -16,18 +16,21 @@ Python
 #### Google Colaboratory(Colab)
 * [Colaboratory へようこそ](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
 * [Colaboratory とは](https://colab.research.google.com/notebooks/intro.ipynb)
+* [Google Colaboratory の開始方法 (Coding TensorFlow)](https://www.youtube.com/watch?v=inN8seMm7UI)
+* [Getting Started with Google CoLab | How to use Google Colab](https://www.youtube.com/watch?v=i-HnvsehuSw)
+
 
 #### Python学習サイト
-* [無料で読める、東大／京大の「Python教科書」電子書籍](https://www.atmarkit.co.jp/ait/articles/2105/26/news025.html)
-* [東京大学のデータサイエンティスト育成講座](https://www.amazon.co.jp/dp/B07PD237GQ/)
 * [Python-izm](https://www.python-izm.com/)
 * [PythonエンジニアによるPython3学習サイト](https://www.python.ambitious-engineer.com/)
 * [CheckiO](https://checkio.org/)
 * [Python入門 - IT media](https://www.atmarkit.co.jp/ait/subtop/features/di/pybasic_index.html)
+* [Fisdom - Python入門 2020](https://www.fisdom.org/F00000118/)
 
-##### Qiita
-* [PythonでのShapefile（.shp）操作まとめ](https://qiita.com/c60evaporator/items/78b4148bac6afa4844f9)
-* [【PythonでGIS】GeoPandasまとめ](https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6)
+
+* [無料で読める、東大／京大の「Python教科書」電子書籍](https://www.atmarkit.co.jp/ait/articles/2105/26/news025.html)
+* [東京大学のデータサイエンティスト育成講座](https://www.amazon.co.jp/dp/B07PD237GQ/)
+
 
 #### Jupyter Notebook
 * [Jupyter Notebook](https://jupyter.org/)
@@ -53,6 +56,18 @@ Python
 * [GeoPandas](https://geopandas.org/index.html)
 * [GeoAlchemy 2](https://geoalchemy-2.readthedocs.io/en/latest/)
 
+##### Qiita ＆ etc
+* [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
+
+* [PythonでのShapefile（.shp）操作まとめ](https://qiita.com/c60evaporator/items/78b4148bac6afa4844f9)
+* [【PythonでGIS】GeoPandasまとめ](https://qiita.com/c60evaporator/items/ac6a6d66a20520f129e6)
+
+* [地理空間情報を扱うなら知っておきたいPythonライブラリ、GeoPandas入門~基礎編~](https://sorabatake.jp/20510/)
+* [地理空間情報を扱う上で知っておきたいPythonライブラリ、GeoPandas入門~応用編・衛星データと組み合わせ~](https://sorabatake.jp/20670/)
+* [Python で GIS データハンドリング](https://qiita.com/mamurata0924/items/23ab860f4d7429207fac)
+* [GIS（地理空間情報システム）の基本～できること、活用事例、GISデータ、ソフト～](https://sorabatake.jp/16915/)
+* [地理空間データを扱う前に知っておきたい地理空間データの心得](https://sorabatake.jp/15589/)
+
 #### 機械学習
 * [Google ColabでYOLOv5を使って物体検出してみた](https://qiita.com/shoku-pan/items/31bf3c975b73db153121)
 
@@ -61,6 +76,72 @@ Python
 * [Heroku](https://jp.heroku.com/)
     * [Heroku スターターガイド (Python)](https://devcenter.heroku.com/ja/categories/python-support)
 * [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
+* [巣ごもりDXステップ講座情報ナビ](https://www.youtube.com/watch?v=inN8seMm7UI)
+
+* [Tellus（テルース）](https://www.tellusxdp.com/)
+   * [初心者向けTellus学習コース](https://tellusxdp.github.io/start-python-with-tellus/index.html)
+* [宙畑 SNS](https://twitter.com/sorabatake)
+   * [解析ノートブックの記事一覧](https://sorabatake.jp/satellite/notebooks/)
+* [TechAcademy](https://techacademy.jp/)
+* [SIGNATE](https://signate.jp/)
+* [RESTECリモセン研修ラボ](https://rs-training.jp/e-learning/)
+
+
+#### google
+* [Google Code Labs](https://codelabs.developers.google.com/)
+* [Google Developers](https://www.youtube.com/user/GoogleDevelopers)
+* [Google Developers Japan](https://www.youtube.com/channel/UC6tAXy7UFO_QG0LeD_OKQBQ)
+* [Google Career Certificates](https://www.youtube.com/channel/UC_fyAp919RnkKmBrMXGwnUQ)
+* [Grow with Google](https://www.youtube.com/channel/UCpd0xtuhhWwUug1bk84usiA)
+* [Google](https://www.youtube.com/user/Google)
+* [Google Maps](https://www.youtube.com/user/googlemaps)
+* [Google Local Guides](https://www.youtube.com/channel/UCEeHmfGLcSga8gRlHCMt6zg)
+* [Google Earth](https://www.youtube.com/user/googleearthweb)
+
+#### オンライン講座（MOOC＝Massive Open Online Course）
+
+* [JMOOC](https://www.jmooc.jp/)
+* [Udemy](https://www.udemy.com/)
+
+* [Coursera](https://www.coursera.org/)
+* [edX](https://www.edx.org/school/)
+   * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)
+* [Udacity](https://www.udacity.com/)
+
+* [東京大学Webサイト](https://www.u-tokyo.ac.jp/ja/society/visit-lectures/mooc.html)
+   * [Coursera東京大学Webサイト](https://www.coursera.org/utokyo)
+   * [edX UTokyoX Webサイト](https://www.edx.org/school/utokyox)
+  
+* [ハーバード大学 CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+   * [cs50.jp](https://cs50.jp/)
+   * [YouTube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
+##### 有料講座
+* [テックアカデミー](https://techacademy.jp/)
+* [ドットインストール](https://dotinstall.com/)
+* [PyQ](https://pyq.jp/)
+* [Progate[プロゲート]](https://prog-8.com/)
+
+### 学習方法
+
+#### 入門書
+* [みんなのPython](https://www.amazon.co.jp/dp/479738946X/)
+
+#### オンライン学習
+* [PyQ（パイキュー） - 本気でプログラミングを学びたい人のPythonオンライン学習サービス (有料)](https://pyq.jp/)
+* [Progate - Python](https://prog-8.com/courses/python)
+  * [学習レッスン一覧表](https://prog-8.com/lessons/info)
+      * HTML&CSS
+      * JavaScript & JQuery
+      * サーバーサイド言語(Python)
+      * SQL
+      * Git
+
+#### 有料スクール
+* [TECHCAMP](https://tech-camp.in/)
+* [テックアカデミー](https://techacademy.jp/)
+* [tech boost(テックブースト](https://be.tech-boost.jp/)
+
 
 ----
 
