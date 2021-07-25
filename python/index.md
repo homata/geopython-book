@@ -58,7 +58,7 @@ Rustは、5年連続で「最も愛されているテクノロジーのトップ
 
 <figure>
 <a href="https://insights.stackoverflow.com/survey/2020/#technology-most-loved-dreaded-and-wanted-languages-loved">
-最も人気のあるテクノロジー</a>
+Stack Overflow Developer Survey 2020 - 最も人気のあるテクノロジー</a>
 </figure>
 <a href="https://insights.stackoverflow.com/survey/2020/#technology-most-loved-dreaded-and-wanted-languages-loved">
   <div align="center" style="margin-bottom:50px;margin-top:30px">
