@@ -99,7 +99,6 @@ Python
 * [Google Earth](https://www.youtube.com/user/googleearthweb)
 
 #### オンライン講座（MOOC＝Massive Open Online Course）
-
 * [JMOOC](https://www.jmooc.jp/)
 * [Udemy](https://www.udemy.com/)
 
@@ -115,6 +114,8 @@ Python
 * [ハーバード大学 CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
    * [cs50.jp](https://cs50.jp/)
    * [YouTube](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+
+* [無料、独学で機械学習エンジニアになる！~機械学習が学べる無料サイト、書籍~](https://qiita.com/KamikawaTakato/items/73b748414567d27a9c52)
 
 ##### 有料講座
 * [テックアカデミー](https://techacademy.jp/)
