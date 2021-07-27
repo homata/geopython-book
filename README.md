@@ -20,7 +20,6 @@ Pythonではじめる地理空間情報
 この資料は下記のサイトを参考に作成をしています。<br>
 資料の一部は参考、引用、転載をしています。
 
-* [Pythonではじめる地理空間情報](https://homata.github.io/geopython-book/)
 * [GeoDjangoではじめる地理空間情報](https://github.com/homata/geodjango-book)
     - [GitBook](https://homata.gitbook.io/geodjango/)
 
@@ -36,3 +35,8 @@ Pythonではじめる地理空間情報
 
 # ソース、サンプルコード
 * [GitHub](https://homata.github.io/geopython-book/)
+
+# Contact
+* Hiroshi Omata
+  * Twitter: @homata
+  * GitHub: https://github.com/homata

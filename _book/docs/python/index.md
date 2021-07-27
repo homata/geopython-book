@@ -4,7 +4,8 @@
 Pythonとは
 ---
 
-Python（パイソン）は、オープンソースのインタープリター型プログラミング言語である。
+Python（パイソン）は、オープンソースのインタープリター型プログラミング言語の一つで、コードの可読性を高めた言語です。
+
 Pythonは、読みやすく、効率よいコードをなるべく簡単に書けるようにするという思想があり、誰が書いても同じようなコードになるように設計されている。
 Phthonの開発者は、イギリスBBCのコメディ番組『空飛ぶモンティ・パイソン（Monty Python's Flying Circus）』のファンで、それが名前の由来といわている。Pythonという単語は辞書で引くと「ニシキヘビ」となっている。
 
@@ -33,17 +34,13 @@ Pythonのサイト
   * [HTML版](https://utokyo-ipp.github.io/index.html)
   * [PDF版](https://utokyo-ipp.github.io/IPP_textbook.pdf)
   * [Jupyter版](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
-### 参考教材
-* [京都大学の学術情報リポジトリ「KURENAI - Kyoto University Research Information Repository 685　国際高等教育院 教材](http://hdl.handle.net/2433/245698)
-  * [プログラミング演習 Python 2019](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/245698/1/Version2020_02_13_01.pdf)
-  * [プログラミング演習 Python 2019( コラム編 )](https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/245698/2/Version2020_02_13_02.pdf)
 
-* [無料で読める、東大／京大の「Python教科書」電子書籍](https://www.atmarkit.co.jp/ait/articles/2105/26/news025.html)
-* [Deep Insiderでは、Python言語が網羅的に解説されている全53回の『Python入門』](https://www.atmarkit.co.jp/ait/subtop/features/di/pybasic_index.html)
-* [Pythonチートシート](https://www.atmarkit.co.jp/ait/articles/2004/20/news015.html)
-  * [Pythonチートシート - HTML](https://www.atmarkit.co.jp/ait/series/17323/)
-  * [Pythonチートシート - PDF](https://ids.itmedia.jp/dl/atmarkit_ebook63_python.pdf?bpc=6b0f132349c67ad56bc2de4798d3a94b244524efc505eaa5b1da004b4eb61f4c)
-* [初心者向けTellus学習コース](https://tellusxdp.github.io/start-python-with-tellus/index.html)
+* 慶応義塾大学理工学部物理情報工学科の講義「プログラミング基礎同演習」
+  * [ゼロから学ぶPython（@kaityo256 先生）](https://kaityo256.github.io/python_zero/)
+
+### 参考教材
+* [文科省高等学校情報科](https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416746.htm)
+* [奥村 晴彦 - 三重大学教育学部特任教授](https://oku.edu.mie-u.ac.jp/~okumura/python/)
 
 ---
 
@@ -58,7 +55,7 @@ Rustは、5年連続で「最も愛されているテクノロジーのトップ
 
 <figure>
 <a href="https://insights.stackoverflow.com/survey/2020/#technology-most-loved-dreaded-and-wanted-languages-loved">
-最も人気のあるテクノロジー</a>
+Stack Overflow Developer Survey 2020 - 最も人気のあるテクノロジー</a>
 </figure>
 <a href="https://insights.stackoverflow.com/survey/2020/#technology-most-loved-dreaded-and-wanted-languages-loved">
   <div align="center" style="margin-bottom:50px;margin-top:30px">
@@ -66,7 +63,7 @@ Rustは、5年連続で「最も愛されているテクノロジーのトップ
   </div>
 </a>
 
-Python以外の開発言語としては、動的型付け言語の「TypeScript」が人気で、静的型付け言語であれば「Go」や「Rust」が開発者に人気がある。大規模の業務系であれば「Java」や「Scala」の需要はまだまだあると思われる。
+Python以外の開発言語としては、動的型付け言語の「TypeScript」が人気で、静的型付け言語であれば「Go」が開発者に人気がある。大規模の業務系であれば「Java」や「Scala」の需要はまだまだあると思われる。「Rust」はC/C++の置き換えとして注目されている
 「Ruby」は日本国内のサービスでは選択されるこどが多いが、海外の世界レベルではあまり注目されていない。  
 
 
@@ -86,3 +83,6 @@ Google Trends 比較 (2021/07/25検索)</a>
     <img src="images/googletrends2021_1.png" width=80% style="border:1px #000 solid;">
   </div>
 </a>
+
+
+* [TIOBE Index for July 2021](https://www.tiobe.com/tiobe-index/)
