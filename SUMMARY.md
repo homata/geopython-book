@@ -17,4 +17,8 @@ Summary
 * [はじめての機械学習](ml/index.md)
 
 ## さいごに
-* [参考サイト](contents/index.md)
+* 参考サイト
+  * [Python 参考サイト](contents/python.md)
+  * [Python フレームワーク参考サイト](contents/framework.md)
+  * [地理空間情報 参考サイト](contents/geo.md)
+  * [機械学習 参考サイト](contents/ml.md)
