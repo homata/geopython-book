@@ -6,16 +6,15 @@ Summary
 
 ## 環境構築
   * [Pythonの環境構築](setup/index.md)
-    * パッケージのインストール
-      * [Windows10](setup/windows.md)
-      * [MacOS](setup/mac.md)
-      * [PostgreSQL](setup/postgres.md)
+    * [Windows10のインストール](setup/windows.md)
+    * [MacOSのインストール](setup/mac.md)
 
 ## Python
   * [はじめてのPython](python/index.md)
 
 ## 地理空間情報
   * [はじめての地理空間情報](geo/index.md)
+  * [PostgreSQL/PostGISのインストール](geo/postgres.md)
 
 ## 機械学習
   * [はじめての機械学習](ml/index.md)
