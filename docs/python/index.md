@@ -166,3 +166,11 @@ GitHubは、GitHub社が提供しているフリーミアムサービスで、gi
 * [数値計算屋のためのGit入門 / Starting Git](https://speakerdeck.com/kaityo256/starting-git)
 
 gitはバージョン管理ツールなので、プログラミングコード以外にも、Word、Excelなどのさまざまは文書のバージョン管理ができます。
+
+Markdown
+---
+Markdown書式は、プレーンテキスト形式のドキュメントに文字修飾をする書式です。
+マークアップ言語の一種で、プレーンテキスト形式のドキュメントに手軽に文字修飾できます。
+さまざまな関連ツールがあり、PDFやHTML等にも変換することが可能となっています。
+
+* [Markdown](https://daringfireball.net/projects/markdown/)
