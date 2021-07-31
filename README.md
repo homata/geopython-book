@@ -21,7 +21,7 @@ Pythonではじめる地理空間情報
 資料の一部は参考、引用、転載をしています。
 
 * [GeoDjangoではじめる地理空間情報](https://github.com/homata/geodjango-book)
-    - [GitBook](https://homata.gitbook.io/geodjango
+    - [GitBook](https://homata.gitbook.io/geodjango)
 
 # 免責
 
