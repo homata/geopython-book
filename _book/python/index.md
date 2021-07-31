@@ -4,54 +4,51 @@
 Pythonとは
 ---
 
-Python（パイソン）は、オープンソースのインタープリター型プログラミング言語の一つで、コードの可読性を高めた言語です。
+Python（パイソン）は、オープンソースのインタープリター型プログラミング言語の1つで、コードの可読性を高めた言語です。
 
 Pythonは、読みやすく、効率よいコードをなるべく簡単に書けるようにするという思想があり、誰が書いても同じようなコードになるように設計されている。
-Phthonの開発者は、イギリスBBCのコメディ番組『空飛ぶモンティ・パイソン（Monty Python's Flying Circus）』のファンで、それが名前の由来といわている。Pythonという単語は辞書で引くと「ニシキヘビ」となっている。
+Phthonの開発者は、イギリスBBCのコメディ番組『空飛ぶモンティ・パイソン（Monty Python's Flying Circus）』のファンで、それが名前の由来といわています。Pythonという単語は辞書で引くと「ニシキヘビ」となっています。
 
 Pythonの最初に覚えなければならない文法はそれほど多くないといわれているので、初心者でもハードルが低くとっつきやすい言語といわれているが、
-他のインタプリタ言語と比較して実行速度が遅いというデメリットがあり、システム開発時はその点を注意してプログラミングをする必要がある。
+他のインタプリタ言語と比較して実行速度が遅いというデメリットがあり、システム開発時はその点を注意してプログラミングをする必要があります。
 
-Pythonは「データサイエンス」や「統計」系の外部ライブラリが豊富であったこともあり、機械学習やAI開発の分野で広く使われるようになった。また、地理空間情報の分野でも広くPythonは使われている。
-データサイエンスやデータ分析等に携わりたいのであれば「線形代数」や「統計学」の数学的の知識が必須である。
+Pythonは「データサイエンス」や「統計」系の外部ライブラリが豊富であったこともあり、機械学習やAI開発の分野で広く使われるようになった。また、地理空間情報の分野でも広くPythonは使われています。
+データサイエンスやデータ分析等に携わりたいのであれば「線形代数」や「統計学」の数学的の知識が必須です。
 
-Pythonにはバージョン2とバージョン3の2つの系統が存在している。バージョン2とバージョン3は互換性がなく、バージョン2については2020年にサポートが終了しているので、バージョン2を使用しなければならない理由がなければ、バージョン3を使用することを強くおススメする。
+Pythonにはバージョン2とバージョン3の2つの系統が存在している。バージョン2とバージョン3は互換性がなく、バージョン2については2020年にサポートが終了しているので、バージョン2を使用しなければならない理由がなければ、バージョン3を使用することを強くおススメします。
 
-Pythonのサイト
+Python公式サイト
 ---
+Pythonを学習する際には、公式サイトやユーザーコミュニティから情報を得るとよいと思います。
 
-### Python公式サイト
-* [Python公式](https://www.python.org/)
+* [Pythonの公式サイト](https://www.python.org/)
     * [Python3ドキュメント](https://docs.python.org/ja/3/)
     * [Pythonダウンロード](https://www.python.org/downloads/)
     * [Python チュートリアル](https://docs.python.org/ja/3/tutorial/)
-* [Python.jp](https://www.python.jp/)
-### Google Colaboratory
-* [Google Colaboratory](https://colab.research.google.com/)
-### Python教材
-* [Pythonプログラミング入門 #utpython 2021年度S1](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
-  * [Colab教材目次](https://colab.research.google.com/github/utokyo-ipp/utokyo-ipp.github.io/blob/master/colab/index.ipynb)
-  * [HTML版](https://utokyo-ipp.github.io/index.html)
-  * [PDF版](https://utokyo-ipp.github.io/IPP_textbook.pdf)
-  * [Jupyter版](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
+* [PyLadies - 女性のPythonコミュニティ](https://pyladies.com/)
 
-* 慶応義塾大学理工学部物理情報工学科の講義「プログラミング基礎同演習」
-  * [ゼロから学ぶPython（@kaityo256 先生）](https://kaityo256.github.io/python_zero/)
+### Django - PythonのWebフレームワーク
+* [Djangoの公式サイト](https://www.djangoproject.com/)
+  * [The Django Book](https://djangobook.com/)
+* [DjangoGirls - 女性のDjangoコミュニティ](https://djangogirls.org/)
+  * [Django Girls のチュートリアル](https://tutorial.djangogirls.org/ja/)
 
-### 参考教材
-* [文科省高等学校情報科](https://www.mext.go.jp/a_menu/shotou/zyouhou/detail/1416746.htm)
-* [奥村 晴彦 - 三重大学教育学部特任教授](https://oku.edu.mie-u.ac.jp/~okumura/python/)
+### 日本のユーザーコミュニティ
+* [Python.jp - 日本のPythonコミュティ](https://www.python.jp/)
+* [django-ja - 日本のDjangoコミュティ](https://djangoproject.jp/)
+* [PyLadies Tokyo - PyLadies の東京(or 日本!?)支部。女性のPythonコミュニティ](https://pyladies-tokyo.connpass.com/)
+* [Django Girls Japan - Djangoの東京(or 日本!?)支部。女性のDjangoコミュニティ](https://djangogirls.org/tokyo/)
+  * [DjangoGirls Japan イベントサイト](https://djangogirls-org.connpass.com/)
 
 ---
-
 プログラム言語のトレンド
 ---
-下記は、世界中のプログラマーの開発者コミュニティである、Stack Overflowからリリースされた2020年度のレポートである。
+下記は、世界中のプログラマーの開発者コミュニティである、Stack Overflowからリリースされた2020年度のレポートです。
 
 * [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey/2020)
 
-過去5年間で一貫して人気のあったPythonは、TypeScriptに負けて「最も愛されているテクノロジーのリスト」で2番目か3番目に落ちた。
-Rustは、5年連続で「最も愛されているテクノロジーのトップを守った。
+過去5年間で一貫して人気のあったPythonは、TypeScriptに負けて「もっとも愛されているテクノロジーのリスト」で2番目か3番目に落ちました。
+Rustは、5年連続で「もっともも愛されているテクノロジーのトップを守っています。
 
 <figure>
 <a href="https://insights.stackoverflow.com/survey/2020/#technology-most-loved-dreaded-and-wanted-languages-loved">
@@ -63,9 +60,7 @@ Stack Overflow Developer Survey 2020 - 最も人気のあるテクノロジー</
   </div>
 </a>
 
-Python以外の開発言語としては、動的型付け言語の「TypeScript」が人気で、静的型付け言語であれば「Go」が開発者に人気がある。大規模の業務系であれば「Java」や「Scala」の需要はまだまだあると思われる。「Rust」はC/C++の置き換えとして注目されている
-「Ruby」は日本国内のサービスでは選択されるこどが多いが、海外の世界レベルではあまり注目されていない。  
-
+Python以外の開発言語としては、動的型付け言語の「TypeScript」が人気で、静的型付け言語であれば「Go」が開発者に人気がある。大規模の業務系であれば「Java」や「Scala」の需要はまだまだあると思われる。「Rust」はC/C++の置き換えとして注目されていて、Linuxのカーネル開発言語はC言語ですが、Rustも使う事を検討されだしています。「Ruby」は日本国内のサービスでは選択されるこどが多いが、海外の世界レベルではあまり注目されていません。
 
 <figure>
 <a href="https://trends.google.com/trends/explore?q=%2Fm%2F05z1_,%2Fm%2F09gbxjr,%2Fm%2F07sbkfb,%2Fm%2F02p97,%2Fm%2F06ff5">
@@ -87,8 +82,15 @@ Google Trends 比較 (2021/07/25検索)</a>
 
 * [TIOBE Index for July 2021](https://www.tiobe.com/tiobe-index/)
 
+開発環境
+----
+Pythonに限らずテキストベースのプログラミング言語を使って開発をする場合はパソコンが必要になります。
+Pythonを学習する場合はテキストベースでの開発となるのでパソコンを用意してください。
 
-コードエディターと開発環境（IDE) 
+タブレット／スマートフォンの開発環境は整ってきていますが、[Scratch](https://scratch.mit.edu/)等のビジュアルプログラミング言語を使う場合が多いと思われます。タブレット／スマートフォンを使用してPythonの学習することは不可能でないですが現時点ではおススメしていません。
+
+
+コードエディターと開発環境（IDE）
 ----
 パソコンで文章を作成するときには、Microsoft WordやGoogle Document等のアプリケーションを使って作成しますが、
 Pythonに限らずプログラミング言語のコードを編集する時はコードエディターを使用します。
@@ -98,7 +100,7 @@ Notepadやメモ帳でもコードを編集することはできますが、コ�
 
 コードエディターはたくさんの種類があります。自分の好みのものを見つける事をおススメします。
 近年は、コード編集に加えてデバック機能などのついた統合開発環境（IDE）で開発することが好まれてます。
-オススメのエディターは下記に挙げます。
+下記に代表的なコードエディターを例に挙げます。
 
 ### Visual Studio Code
 マイクロソフトが開発した無料のコードエディターです。

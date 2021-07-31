@@ -13,7 +13,6 @@ PCにPythonの実行環境を構築する場合は、インストーラーを使
 
 ### Webブラウザー
 WebブラウザからPythonが実行できる統合開発環境です。
-インストールせずに手軽に始められます。
 
 * [Jupyter Notebook/JupyterLab](https://jupyter.org/)
 * [Google Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ja)
