@@ -173,4 +173,4 @@ Markdown書式は、プレーンテキスト形式のドキュメントに文字
 マークアップ言語の一種で、プレーンテキスト形式のドキュメントに手軽に文字修飾できます。
 さまざまな関連ツールがあり、PDFやHTML等にも変換することが可能となっています。
 
-* [Markdown](https://daringfireball.net/projects/markdown/)
+* [Markdown公式](https://daringfireball.net/projects/markdown/)
