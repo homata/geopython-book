@@ -35,7 +35,7 @@ Pythonではじめる地理空間情報
 # 使用データ
 
 # ソース、サンプルコード
-* [GitHub](https://homata.github.io/geopython-book/)
+* [GitHub](https://github.com/homata/geopython-book)
 
 # Contact
 * Hiroshi Omata
