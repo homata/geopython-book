@@ -9,7 +9,7 @@
 * [GeoPandas](https://geopandas.org/index.html)
 * [GeoAlchemy 2](https://geoalchemy-2.readthedocs.io/en/latest/)
 
-##### Pythonの分類 
+##### Pythonの分類とツール 
 * geopy
 * pyshp
 * fiona
@@ -20,6 +20,7 @@
 * pydeck
 * geoalchemy
 * matplotlib + descartes
+* geoplot
 
 ##### Qiita ＆ etc
 * [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
