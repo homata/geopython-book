@@ -9,6 +9,18 @@
 * [GeoPandas](https://geopandas.org/index.html)
 * [GeoAlchemy 2](https://geoalchemy-2.readthedocs.io/en/latest/)
 
+##### Pythonの分類 
+* geopy
+* pyshp
+* fiona
+* cartopy
+* geopandas
+* shapely
+* folium
+* pydeck
+* geoalchemy
+* matplotlib + descartes
+
 ##### Qiita ＆ etc
 * [Automating GIS-processes 2019](https://automating-gis-processes.github.io/site/)
 
@@ -20,7 +32,7 @@
 * [Python で GIS データハンドリング](https://qiita.com/mamurata0924/items/23ab860f4d7429207fac)
 * [GIS（地理空間情報システム）の基本～できること、活用事例、GISデータ、ソフト～](https://sorabatake.jp/16915/)
 * [地理空間データを扱う前に知っておきたい地理空間データの心得](https://sorabatake.jp/15589/)
-
+* [pythonを用いたshapefileやgeojsonの読込および描画](https://qiita.com/HidKamiya/items/5e7240f8f66c9af8b10e)
 
 ### GeoDjango
 GeoDjangoはDjangoに含まれている地理空間データ用のモジュールです。
