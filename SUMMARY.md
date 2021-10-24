@@ -1,32 +1,22 @@
 Summary
-===
+========
 
 ## はじめに
-  * [Pythonではじめる地理空間情報](README.md)
+* [Pythonではじめる地理空間情報](README.md)
+    * [対象読者](README.md#対象読者)
+    * [ライセンス](README.md#ライセンス)
+    * [免責](README.md#免責)
 
-## 環境構築
-  * [Pythonの環境構築](setup/index.md)
-    * [Windows10のインストール](setup/windows.md)
-    * [MacOSのインストール](setup/mac.md)
+## 第30回GIS学会 ワークショップ - FOSS4Gを使って3D空間データを扱ってみよう！！
+* [ワークショップ概要](pointcloud/index.md)
 
-## Python
-  * [はじめてのPython](python/index.md)
+## 点群データとは?
+* [点群データとは?](pointcloud/pointcloud.md)
 
-## 地理空間情報
-  * [はじめての地理空間情報](geo/index.md)
-  * [PostgreSQL/PostGISのインストール](geo/postgres.md)
+## ツールを使って点群データを間引き
 
-## 機械学習
-  * [はじめての機械学習](ml/index.md)
 
-## その他
-  * [Git/GitHub](tools/git.md)
+## 点群データを表示してみる
 
-## さいごに
-  * 参考サイト
-    * [Python関連](contents/python.md)
-    * [Pythonフレームワーク関連（Django)](contents/framework.md)
-    * [地理空間情報](contents/geo.md)
-    * [機械学習](contents/ml.md)
-    * [Tips](contents/tips.md)
+
 
